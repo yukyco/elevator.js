@@ -6,8 +6,8 @@ html, body {
 }
 
 body {
-    color: #0C1F31;
-    background: #fff;
+    background: #b3ffbf;
+    background-image: url('../img/trees.png');
     font-family: 'Avenir Next', 'Helvetica Neue', Helvetica, Arial, sans-serif;
     text-align: center;
 }
